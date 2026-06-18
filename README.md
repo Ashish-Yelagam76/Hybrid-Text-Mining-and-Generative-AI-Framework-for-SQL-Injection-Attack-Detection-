@@ -1,0 +1,2 @@
+# Hybrid-Text-Mining-and-Generative-AI-Framework-for-SQL-Injection-Attack-Detection-
+    This desktop GUI tool helps non-expert users detect SQL-injection attacks. It uses a hybrid framework, combining Machine Learning and Deep Learning models. Generative AI (LLM like Gemini) provides a crucial second opinion on potential attacks. The tool handles text processing (Bag-of-Words) and allows live prediction.
